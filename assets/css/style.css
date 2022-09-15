@@ -29,10 +29,7 @@ p{
     line-height: normal;
 }
 
-h2 {
-    padding-top: 10px;   
-    
- }
+
 
 h4{
     color: #008AE1;
@@ -59,5 +56,6 @@ h4{
 .column img{
     height: 6rem;
     float: left;
+
 
 }
