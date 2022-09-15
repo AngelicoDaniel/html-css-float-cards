@@ -42,5 +42,8 @@ h2, h3{
     background-color: black;
     float: left;
     width: calc( 100% / 3 );
+}
 
+.column img{
+    height: 100px;
 }
