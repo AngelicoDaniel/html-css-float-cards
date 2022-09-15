@@ -29,8 +29,12 @@ p{
     line-height: normal;
 }
 
-h2, h3{
+h2,h3{
     color: white;
+}
+
+h4{
+    color: #008AE1;
 }
 
 .container{
