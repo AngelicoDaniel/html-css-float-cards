@@ -30,7 +30,7 @@ p{
 }
 
 h2 {
-    padding-top: 20px;   
+    padding-top: 10px;   
     
  }
 
@@ -48,11 +48,12 @@ h4{
 
     background-color: black;
     color: white;
-    font-size: small;
+    font-size: normal;
     line-height: normal;
     float: left;
     box-shadow: grey;
     width: calc( 100% / 3 );
+    padding: 20px;
 }
 
 .column img{
