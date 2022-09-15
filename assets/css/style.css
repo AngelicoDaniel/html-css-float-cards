@@ -52,8 +52,8 @@ h4{
     line-height: normal;
     float: left;
     box-shadow: grey;
-    width: calc( 100% / 3 );
-    padding: 20px;
+    width: calc( 90% / 3 );
+    margin: 10px;
 }
 
 .column img{
