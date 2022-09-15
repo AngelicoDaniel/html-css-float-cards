@@ -29,9 +29,10 @@ p{
     line-height: normal;
 }
 
-h2,h3{
-    color: white;
-}
+h2 {
+    padding-top: 20px;   
+    
+ }
 
 h4{
     color: #008AE1;
@@ -40,14 +41,22 @@ h4{
 .container{
     width: 80%;
     margin: auto;
+
 }
 
-.column{
+.column {
+
     background-color: black;
+    color: white;
+    font-size: small;
+    line-height: normal;
     float: left;
+    box-shadow: grey;
     width: calc( 100% / 3 );
 }
 
 .column img{
     height: 100px;
+    float: left;
+
 }
