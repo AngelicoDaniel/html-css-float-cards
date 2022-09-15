@@ -4,11 +4,23 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-.clearfix::after{
+  }
+  
+  .clearfix::after{
     clear: both;
     content: '';
     display: table;
-}
+  }
+  
+  body{
+    background-color: #000;
+    color: #fff;
+  }
 
+  header{
+    text-align: center;
+  }
+
+h1{
+    color: pink;
+}
